@@ -21,7 +21,7 @@ SOCIAL_MEDIA = {
     "Facebook": "https://www.facebook.com/daimlerbenx/",
     "LinkedIn": "https://www.linkedin.com/in/daimlerbenx/",
     "GitHub": "https://github.com/daimlerbenx",
-    "Google Scholar": "https://bit.ly/dba-google-scholar",
+    "Google Scholar": "https://bit.ly/daimlerbenx-google-scholar",
 }
 PROJECTS = {
     "🏆 Web Developer - Developed a data science/mining web app": "https://smuems.onrender.com/",
