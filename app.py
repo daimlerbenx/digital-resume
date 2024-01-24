@@ -82,7 +82,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python, Java, PHP, SQL, Solidity
+- 🧑‍💻 Programming: Python, Java, PHP, SQL, Solidity
 - 💻 Front-End Technologies: HTML5, CSS3, XML
 - 📚 Interest Research: Artificial Intelligence, Blockchain, Data Mining, Internet of Things
 - 🗄️ Databases: MySQL
