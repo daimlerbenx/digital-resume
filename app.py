@@ -108,7 +108,7 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🧑‍🏫", "**Tutor | Faculty of Computing and Informatics, Universiti Malaysia Sabah**")
+st.write("👨‍🏫", "**Tutor | Faculty of Computing and Informatics, Universiti Malaysia Sabah**")
 st.write("2022 - 2023")
 st.write(
     """
