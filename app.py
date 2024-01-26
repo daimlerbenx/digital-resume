@@ -27,7 +27,7 @@ PROJECTS = {
     "🏆 Web Developer - Developed a data science/mining web app": "https://smuems.onrender.com/",
     "🏆 Graduate Research Assistant - Involved in a data mining and machine learning research project": None,
     "🏆 Graphic Designer - Designed posters and logos for E-commerce businesses": "https://www.milkpowder.sg/",
-    "🏆 Front-End Developer - Developed a decentralized mobile application interface": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.USIMTASeScroll&hl=en&gl=US",
+    "🏆 Front-End Developer - Developed a decentralized mobile application (DApps) interface": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.USIMTASeScroll&hl=en&gl=US",
     "🏆 Web Developer - Developed the JPDS official website": "https://jpds.sabah.gov.my/",
 }
 
@@ -119,13 +119,13 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🧑‍💻", "**Front-End Developer | iExploTech Sdn. Bhd.**")
+st.write("🧑‍💻", "**Front-End Developer | iExploTech**")
 st.write("2021 - 2022")
 st.write(
     """
 - ► Involved in development projects with Malaysian government agencies and Institusi Pengajian Tinggi Malaysia
 - ► Created Ethereum smart contracts using Remix IDE
-- ► Developed the decentralized mobile application interface
+- ► Developed the decentralized mobile application (DApps) interface
 - ► Designed graphics using Photoshop, and Android app prototypes using XD
 - ► Compiled system administration manuals
 """
