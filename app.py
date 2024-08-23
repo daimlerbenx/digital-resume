@@ -136,7 +136,7 @@ st.write(
 
 # --- JOB 4
 st.write('\n')
-st.write("👨‍🏫", "**Web Developer | Jabatan Pelabuhan dan Dermaga Sabah | Apr 2021 - May 2021**")
+st.write("🧑‍💻", "**Web Developer | Jabatan Pelabuhan dan Dermaga Sabah | Apr 2021 - May 2021**")
 st.write(
     """
 - ► Developed official website using WordPress as freelance.
