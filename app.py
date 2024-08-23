@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital Resume - Daimler Benz Alebaba"
 PAGE_ICON = ":wave:"
-NAME = "Daimler Benz Alebaba"
+NAME = "Daimler B. Alebaba"
 DESCRIPTION = """
 Software Developer | Engineer
 """
