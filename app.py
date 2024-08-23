@@ -28,7 +28,7 @@ PROJECTS = {
     "🏆 Graduate Research Assistant - Researched on Data Mining and Machine Learning research project": "https://ieeexplore.ieee.org/abstract/document/10291674",
     "🏆 Graphic Designer - Designed posters and logos for E-commerce brand": "https://www.milkpowder.sg",
     "🏆 Front-End Software Developer - Developed degree certificate verification dApp and more other confidential dApps for Malaysian Government Agencies running on blockchain technology": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.USIMTASeScroll&hl=en&gl=US",
-    "🏆 Web Developer - Developed Malaysian Government Department official website": "https://jpds.sabah.gov.my",
+    "🏆 Web Developer - Developed Malaysian Government State Department official website": "https://jpds.sabah.gov.my",
 }
 
 
@@ -128,7 +128,7 @@ st.write(
 - ► Developed Ethereum smart contracts on Blockchain using Solidity in Remix IDE.
 - ► Developed Android Decentralized Apps (dApps) high-fidelity user interface using UI/UX principles, enhanced consistency and scalability.
 - ► Served as Back-End (Java) when deemed necessary.
-- ► Created dApps graphics and prototypes using Adobe tools.
+- ► Designed dApps graphics and prototypes using Adobe tools.
 - ► Compiled system administration manuals.
 
 """
