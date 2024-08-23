@@ -51,7 +51,7 @@ with col1:
     st.image(profile_pic, width=200)
 
 with col2:
-    st.markdown(f"<h1 style='font-size: 50px;'>{NAME}</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='font-size: 45px;'>{NAME}</h1>", unsafe_allow_html=True)
     st.write(DESCRIPTION)
     st.download_button(
         label=" 📄 Download Resume",
