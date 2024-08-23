@@ -24,11 +24,11 @@ SOCIAL_MEDIA = {
     "Google Scholar": "https://bit.ly/daimlerbenx-google-scholar",
 }
 PROJECTS = {
-    "🏆 Web App Developer - Developed data mining web app for user engagement pattern discovery": "https://smuems.onrender.com/",
-    "🏆 Graduate Research Assistant - Researched on data mining and machine learning research project": None,
-    "🏆 Graphic Designer - Designed posters and logos for E-commerce brand": "https://www.milkpowder.sg/",
-    "🏆 Front-End Software Developer - Developed a decentralized mobile application (DApps) interface": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.USIMTASeScroll&hl=en&gl=US",
-    "🏆 Web Developer - Developed the JPDS official website": "https://jpds.sabah.gov.my/",
+    "🏆 Web App Developer - Developed Data Mining Web App user engagement pattern discovery": "https://smuems.onrender.com",
+    "🏆 Graduate Research Assistant - Researched on Data Mining and Machine Learning research project": "https://ieeexplore.ieee.org/abstract/document/10291674",
+    "🏆 Graphic Designer - Designed posters and logos for E-commerce brand": "https://www.milkpowder.sg",
+    "🏆 Front-End Software Developer - Developed degree certificate verification dApp and more other confidential dApps for Malaysian Government Agencies running on blockchain technology": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.USIMTASeScroll&hl=en&gl=US",
+    "🏆 Web Developer - Developed Malaysian Government Department official website": "https://jpds.sabah.gov.my",
 }
 
 
@@ -49,7 +49,7 @@ with col1:
     st.image(profile_pic, width=200)
 
 with col2:
-    st.title(NAME)
+    st.markdown(f"<h1 style='font-size: 45px;'>{NAME}</h1>", unsafe_allow_html=True)
     st.write(DESCRIPTION)
     st.download_button(
         label=" 📄 Download Resume",
@@ -126,7 +126,7 @@ st.write("🧑‍💻", "**Front-End Software Developer | iExploTech Sdn. Bhd. |
 st.write(
     """
 - ► Developed Ethereum smart contracts on Blockchain using Solidity in Remix IDE.
-- ► Designed Android Decentralized Apps (dApps) high-fidelity user interface using UI/UX principles, enhanced consistency and scalability.
+- ► Developed Android Decentralized Apps (dApps) high-fidelity user interface using UI/UX principles, enhanced consistency and scalability.
 - ► Served as Back-End (Java) when deemed necessary.
 - ► Created dApps graphics and prototypes using Adobe tools.
 - ► Compiled system administration manuals.
@@ -178,7 +178,8 @@ st.write(
 """
 )
 
-st.write("👨‍🎓", "**Professional Certificates**")
+st.write('\n')
+st.subheader("Professional Certificates")
 st.write(
     """
 - ► [Coursera] Google Data Analytics and IBM AI Developer
@@ -186,7 +187,8 @@ st.write(
 """
 )
 
-st.write("👨‍🎓", "**Spoken Language**")
+st.write('\n')
+st.subheader("Spoken Language")
 st.write(
     """
 - ► Fluent written and spoken English and Malay
@@ -194,7 +196,8 @@ st.write(
 """
 )
 
-st.write("👨‍🎓", "**Research Interests**")
+st.write('\n')
+st.subheader("Research Interests")
 st.write(
     """
 - ► Blockchain, Data Mining, Internet of Things, Machine Learning
