@@ -160,7 +160,7 @@ st.write(
 - ► Achieved EXCELLENT (92% - 95%) results for four consecutive semesters.
 - ► Participated in international conferences and seminars for new research findings discussion.
 - ► Published research papers in SCOPUS-indexed journals.
-- ► Developed Data Mining Web App using Streamlit Python Framework and deployed to Render from GitHub.
+- ► Developed Data Mining Web App using Streamlit, deployed to Render via GitHub with Git version control.
 - ► [International Level] UMS EXCOCIPTA Research and Innovation Competition 2024 - Bronze Medal
 """
 )
