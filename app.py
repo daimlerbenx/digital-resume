@@ -14,7 +14,7 @@ PAGE_TITLE = "Digital Resume - Daimler Benz Alebaba"
 PAGE_ICON = ":wave:"
 NAME = "Daimler B. Alebaba"
 DESCRIPTION = """
-Software Developer / Engineer
+Research & Development
 """
 
 ADDRESS ="Sabah, Malaysia"
